@@ -27,9 +27,6 @@
 </h1>
   </div>
   <u></u>
-  <a href="https://github.com/majdzain">
-    HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-  </a>
   <div>
 :man_technologist: About Me :
   </div>
